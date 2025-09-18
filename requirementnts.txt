@@ -1,0 +1,13 @@
+# proyecto-almacenamiento-datos
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+graphviz
+openpyxl
+python-docx
+reportlab
+streamlit-drawable-canvas
+streamlit-aggrid
+
