@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Empresa A",
+    "sector": "Tecnología",
+    "volumen_tb": 50,
+    "presupuesto_usd": 50000
+  },
+  {
+    "nombre": "Empresa B",
+    "sector": "Salud",
+    "volumen_tb": 100,
+    "presupuesto_usd": 120000
+  },
+  {
+    "nombre": "Empresa C",
+    "sector": "Educación",
+    "volumen_tb": 20,
+    "presupuesto_usd": 20000
+  }
+]
