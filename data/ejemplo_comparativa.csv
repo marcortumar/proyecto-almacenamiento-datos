@@ -1,0 +1,5 @@
+Tecnología,Velocidad (MB/s),Capacidad (TB),Costo USD/GB,Fiabilidad (MTBF),Consumo (W),Seguridad,Escalabilidad
+HDD,150,10,0.03,1200000,6,Baja,Media
+SSD,500,4,0.10,2000000,3,Alta,Media
+Cintas,50,1000,0.01,3000000,2,Media,Baja
+Nube,300,Ilimitada,0.05,5000000,Variable,Alta,Alta
